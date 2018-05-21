@@ -4,7 +4,7 @@
 <suite name="Suite" parallel="classes" thread-count="8">
     <test name="Production tests">
         <classes>
-            <class name="com.google.test.search.SearchGoogleTest"/>
+            <class name="com.google.test.mobile.SearchGoogleMobileTest"/>
         </classes>
     </test>
 </suite>
