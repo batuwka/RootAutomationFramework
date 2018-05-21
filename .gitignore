@@ -1,3 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea/
 /RAF.iml
+src/main/java/com/browser/com/
+target/
